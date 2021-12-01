@@ -9,6 +9,7 @@ bool verifica(char a){
     }
 }
 
+
 char convert(char a){
     if (a>=65 && a<=90){
         a = a + 32;
